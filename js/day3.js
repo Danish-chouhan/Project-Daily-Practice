@@ -9,7 +9,7 @@ function squared(a){
 
 // ----
 
-// 12 ==> Using the "&&" Operator
+//  Using the "&&" Operator
 //     JavaScript has a logical operator &&. The && operator takes two boolean values, and returns true if both values are true.
 //     Consider a && b:
 //         a is checked if it is true or false.
@@ -111,7 +111,7 @@ function isEven(num){
 
 
 
-// 18 ==> The Farm Problem
+//The Farm Problem
 //     In this challenge, a farmer is asking you to tell him how many legs can be counted among all his animals. The farmer breeds three species:
 //         chickens = 2 legs
 //         cows = 4 legs
@@ -132,7 +132,7 @@ function animals(chickens,cows,pigs){
 // ---
 
 
-// 19 ==> Convert Hours and Minutes into Seconds
+// Convert Hours and Minutes into Seconds
 //     Write a function that takes two integers (hours, minutes), converts them to seconds, and adds them.
 function convert(hours,minutes){
     return 60 * ((60 * hours) + minutes);
@@ -145,7 +145,7 @@ function convert(hours,minutes){
 // ---
 
 
-// 20 ==> Equality Check
+// Equality Check
 //     In this challenge, you must verify the equality of two different given parameters: a and b.
 //     Both the value and the type of parameters need to be tested in order to have a matching equality. The possible types of the given parameters are:
 //         Numbers
