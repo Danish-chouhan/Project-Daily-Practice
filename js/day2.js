@@ -1,5 +1,7 @@
 // -------------------------------------
 
+//  Q4
+
 function giveMeSomething(str) {
     return `something ${str}`
 }
@@ -9,6 +11,8 @@ function giveMeSomething(str) {
 // console.log(giveMeSomething("something")) // "something something"
 
 // -------------------------------------
+
+//  Q5
 
 // Area of a Triangle`
 function triArea(base, height) {
@@ -22,6 +26,9 @@ function triArea(base, height) {
 
 
 // -------------------------------------
+
+//  Q6
+
 function howManySeconds(hours) {
     return 3600 * hours
 }
@@ -32,6 +39,8 @@ function howManySeconds(hours) {
 
 // -------------------------------------
 
+//  Q7
+
 const getFirstValue = (arr => arr[0])
 
 // console.log(getFirstValue([1, 2, 3]) )// 1
@@ -39,6 +48,8 @@ const getFirstValue = (arr => arr[0])
 // console.log(getFirstValue([-500, 0, 50]) )// -500
 
 // -------------------------------------
+
+//  Q8
 
 function nextEdge(num1, num2) {
     return (num1 + num2) - 1;
@@ -49,6 +60,9 @@ function nextEdge(num1, num2) {
 // console.log(nextEdge(9, 2)) // 10
 
 // -------------------------------------
+
+//  Q9
+
 function findPerimeter(num1, num2) {
     return 2 * (num1 + num2)
 }
@@ -58,6 +72,8 @@ function findPerimeter(num1, num2) {
 // console.log(findPerimeter(2, 9)  )// 22
 
 // -------------------------------------
+
+//  Q10
 
 function remainder(num1,num2){
     return num1 % num2
