@@ -1,4 +1,5 @@
 // ------------------------------
+//  Q1
 
 function addition(num1, num2) {
     return (Number(num1) + Number(num2))
@@ -10,6 +11,7 @@ function addition(num1, num2) {
 // console.log(addition('7', 3)) // 10
 
 // ------------------------------
+//  Q2
 
 function convert(num1) {
     return num1 * 60
@@ -21,6 +23,8 @@ function convert(num1) {
 // console.log(convert('2')) // 120
 
 // ------------------------------
+
+//  Q3
 
 function addition(num1){
     return (num1 * 1) + 1
